@@ -1,5 +1,6 @@
 # CarTalkHackathon
 Luxoft Car Talk Hackathon Repo
+
 A Talking car is no longer science fiction, its is a reality!
 Come be a part of Car Talk a hackathon where we give you a chance to build your own in-car personal assistant using Amazon's Alexa Skills.
 
