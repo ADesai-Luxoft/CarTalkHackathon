@@ -11,6 +11,9 @@ https://71tl3bf6j5.execute-api.eu-central-1.amazonaws.com/dev-new/cars/carId
 
 Come get your carId and API key from us
 
+## UI
+http://car-dashboard.s3-website.eu-central-1.amazonaws.com/
+
 
 ## Preprep
 We hope you are as excited as we are! Here are a few seps to get you started:
