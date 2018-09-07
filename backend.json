@@ -1,0 +1,41 @@
+{
+    "statusCode": 201,
+    "body": {
+        "Item": {
+            "model": "My Model 2",
+            "RequestTime": "2018-09-07T07:46:57.629Z",
+            "carName": "test car",
+            "modelYear": 2016,
+            "vin": "vinnnnnnn",
+            "brand": "Best Brand",
+            "CarId": "2",
+            "carStatus": {
+                "location": {
+                    "available": true,
+                    "lon": "-122.3942",
+                    "lat": "37.7898"
+                },
+                "fuelEconomy": 6,
+                "fuel": 6,
+                "errors": [
+                    "error0",
+                    "error1"
+                ],
+                "mileage": 10123
+            },
+            "features": {
+                "bodyControl": {
+                    "available": true,
+                    "status": "active"
+                },
+                "climateControl": {
+                    "available": true,
+                    "status": "active"
+                }
+            }
+        }
+    },
+    "headers": {
+        "Access-Control-Allow-Origin": "*"
+    }
+}
