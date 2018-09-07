@@ -4,8 +4,8 @@
 const Alexa = require('ask-sdk');
 const https = require('https');
 
-const carId = '2';
-const apiKey = 'PcwS4Ed2cf7nMQqfmmUkfAfSAqClgTp8adYufB4h';
+const carId = 'carID';
+const apiKey = 'apikey';
 
 
 const options = {
